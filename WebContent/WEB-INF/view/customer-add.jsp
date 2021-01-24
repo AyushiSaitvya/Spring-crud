@@ -4,7 +4,7 @@
 <html>
 
 <head>
-	<title>Save THe Customer</title>
+	<title>Saved THe Customer</title>
 
 	<link type="text/css"
 		  rel="stylesheet"
